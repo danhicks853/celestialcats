@@ -1,0 +1,48 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Rr]ecords/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Unity cache
+*.pidb.meta
+*.pdb.meta
+*.svd.meta
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Crash reports
+sysinfo.txt
+
+# Addressables / AssetBundles
+Assets/AssetBundles/
+Assets/AddressableAssetsData/*/*.bin*
+
+# Gradle
+.gradle/
+
+# Unity Collaborate
+*.collabignore
+
